@@ -4,11 +4,19 @@ body {
     font-size: 15px;
 }
 
-h1 {
+main {
+    text-align: center;
+}
+
+h2 {
     font-weight: 200;
 }
 
 span {
     font-weight: 600;
     display: block;
+}
+
+h3 {
+    font-weight: 600;
 }
