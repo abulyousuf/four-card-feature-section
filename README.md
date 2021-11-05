@@ -1,1 +1,3 @@
-# four-card-feature-section
+# Four card feature section
+
+A multi-column and responsive layout
