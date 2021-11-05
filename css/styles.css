@@ -73,6 +73,17 @@ main p {
     justify-content: flex-end;
 }
 
+footer {
+    text-align: center;
+    font-size: 12px;
+    /*margin: 20px 0;*/
+    padding: 25px 0;
+}
+
+footer a {
+    text-decoration: none;
+}
+
 @media (min-width: 1024px) {
     main {
         margin: 10px 10px;
